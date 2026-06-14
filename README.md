@@ -176,7 +176,6 @@ If you use this library, please cite:
 @article{han2026mojo,
   author  = {Han, Henry},
   title   = {Mojo: A Promising Tool for Scalable Financial AI Efficiency},
-  journal = {Communications of the ACM (Practice)},
   year    = {2026}
 }
 ```
